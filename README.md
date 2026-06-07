@@ -1,7 +1,3 @@
-# ATP-Tennis-Match-Outcome-Prediction-Using-PySpark-and-Machine-Learning
-
-
-
 
 # ATP Tennis Match Outcome Prediction Using PySpark and Machine Learning
 
